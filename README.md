@@ -119,3 +119,14 @@ cat ssh_host_ed25519_key
 Can be downloaded at [Release](../../releases)
 
 -----
+
+## ☕ Dukung Daffiyanet
+
+Fork ini dikelola oleh [Daffiyanet](https://github.com/Indra725). Kalau fork ini membantu Anda:
+
+- **Halaman donasi:** https://indra725.github.io/donasi/
+- **QRIS:** scan dari semua e-wallet / m-banking (DAFFIYANET, Konter — NMID ID1025401523762)
+- **E-Wallet (DANA / GoPay / OVO / ShopeePay):** **08516163719** a/n **Daffiyanet**
+- **WhatsApp:** [wa.me/628516163719](https://wa.me/628516163719)
+
+> Catatan: konten asli proyek ini adalah fork/template dari karya orang lain (lihat bagian atas README). Donasi mendukung maintenance fork ini, bukan penulis asli.
